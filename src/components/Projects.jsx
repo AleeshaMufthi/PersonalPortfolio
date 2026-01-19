@@ -1,16 +1,16 @@
 import React from "react"
 import { Github, ExternalLink } from "lucide-react"
-// import dating from '../assets/Dating.jpg'
-// import learn from '../assets/E-Learning.jpg'
-// import event from '../assets/Event.jpg'
-// import plant from '../assets/Plant.jpg'
+import brainbooster from '../assets/Brainbooster.png'
+import grewitup from '../assets/Grewitup.png'
+import tripPlanner from '../assets/TripPlanner.png'
+import travelbuddy from '../assets/Travelbuddy.png'
 
 const projects = [
   {
     title: "Brain Booster",
     description:
       "A full-stack e-learning application with authentication, payments, and admin dashboard.",
-    image: "/src/assets/Brainbooster.png",
+    image: brainbooster,
     tech: ["React", "Node.js", "MongoDB"],
     github: "https://github.com/AleeshaMufthi/Learning-front",
     live: "#",
@@ -19,7 +19,7 @@ const projects = [
     title: "Grew It Up",
     description:
       "An E-Commerce Application with real-time updates and team workflows.",
-    image: "/src/assets/Grewitup.png",
+    image: grewitup,
     tech: ["Ejs", "Node", "MongoDB"],
     github: "https://github.com/AleeshaMufthi/Grew-It-Up",
     live: "#",
@@ -28,7 +28,7 @@ const projects = [
     title: "TTB",
     description:
       "A fully designed Static Trip planner site",
-    image: "/src/assets/TripPlanner.png",
+    image: tripPlanner,
     tech: ["React"],
     github: "https://github.com/AleeshaMufthi/ToursandTravels-React",
     live: "https://toursand-travels-react-6nij.vercel.app/home",
@@ -37,7 +37,7 @@ const projects = [
     title: "Travel Buddy",
     description:
       "Find perfect travel match with AI Features",
-    image: "/src/assets/Travelbuddy.png",
+    image: travelbuddy,
     tech: ["Convex", "Clerk"],
     github: "https://github.com/AleeshaMufthi/Trip-planner",
     live: "#",
