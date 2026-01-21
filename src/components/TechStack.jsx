@@ -13,32 +13,49 @@ import typescript from '../assets/TypeScript..png'
 import vite from '../assets/Vite.js..png'
 import aws from '../assets/Aws.svg'
 import next from '../assets/nextjs.avif'
-import clerk from '../assets/clerk.png'
-import convex from '../assets/convex.svg'
 import psql from '../assets/PostgreSQL.png'
 import mysql from '../assets/mysql.png'
+import convex from '../assets/convex.png'
+import clerk from '../assets/clerk.webp'
+import figma from '../assets/Figma.svg'
+import firebase from '../assets/firebase.png'
+import gsap from '../assets/gsap.png'
+import framer from '../assets/framer.webp'
+import tailwindcss from '../assets/tailwindcss.jpg'
+import bootstrap from '../assets/bootstrap.jpg'
+import vercel from '../assets/vercel.svg'
+import render from '../assets/renderog.png'
+
 
 const TechStack = () => {
 
       const skills = [
     { name: 'JavaScript', icon: javascript },
-    { name: 'TypeScript', icon: typescript },
     { name: 'Node.js', icon: node },
     { name: 'Express.js', icon: express },
     { name: 'MongoDB', icon: mongodb },
     { name: 'React', icon: react },
     { name: 'Redux', icon: redux },
+    { name: 'TypeScript', icon: typescript },
     { name: 'aws', icon: aws},
     { name: 'Next.js', icon: next},
     { name: 'Vite', icon: vite },
     { name: 'Clerk', icon: clerk},
     { name: 'Convex', icon: convex},
+    { name: 'Render', icon: render },
     { name: 'PostgreSQL', icon: psql},
     { name: 'MySQL', icon: mysql},
     { name: 'Git', icon: Git },
     { name: 'Nginx', icon: nginx },
     { name: 'HTML5', icon: Html5 },
     { name: 'CSS3', icon: css3 },
+    { name: 'Figma', icon: figma },
+    { name: 'Firebase', icon: firebase },
+    { name: 'GSAP', icon: gsap },
+    { name: 'Framer', icon: framer },
+    { name: 'TailwindCSS', icon: tailwindcss },
+    { name: 'Bootstrap', icon: bootstrap },
+    { name: 'Vercel', icon: vercel },
   ];
   
   return (
