@@ -12,18 +12,18 @@ const AboutMe = () => {
         <div className="max-w-8xl mx-auto">
          <div className="space-y-6 md:space-y-8 font-['Be_Vietnam'] font-normal text-[20px] md:text-[36px] leading-[120%] md:leading-[108%] max-w-5xl">
           <p>
-            Self-taught full-stack developer with <span className="font-bold tracking-[-0.06em]">2+ years</span>of hands-on experience, 
-                passionate about <span className="font-bold tracking-[-0.06em]">solving real-world problems</span>using modern web technologies.
+            Self-taught full-stack developer with <span className="font-bold tracking-[-0.06em]">2+ years </span>of hands-on experience, 
+                passionate about <span className="font-bold tracking-[-0.06em]">solving real-world problems </span>using modern web technologies.
           </p>
           <p>
-            Skilled in <span className="font-bold tracking-[-0.06em]">Node.js, React, Next.js, TypeScript, 
+            Skilled in <span className="font-bold tracking-[-0.06em]">React, Next.js, TypeScript, Node.js,
                 Express, MongoDB, PostgreSQL, Socket.io, WebRTC, AWS, and Git.</span> 
           </p>
           <p>
             My journey began during my <span className="font-bold tracking-[-0.06em]">Computer Applications degree </span>at <span className="font-bold tracking-[-0.06em]">MG University</span>, where project work sparked my love for building scalable, 
              maintainable applications. I enjoy working in
-             <span className="font-bold tracking-[-0.06em]">fast-paced </span>environments, taking products from <span className="font-bold tracking-[-0.06em]">concept to deployment </span>, and <span className="font-bold tracking-[-0.06em]">collaborating with teams </span>
-              to deliver <span className="font-bold tracking-[-0.06em]">high-performance </span>, user-focused solutions.
+             <span className="font-bold tracking-[-0.06em]"> fast-paced </span>environments, taking products from <span className="font-bold tracking-[-0.06em]">concept to deployment </span>, and <span className="font-bold tracking-[-0.06em]">collaborating with teams </span>
+              to deliver <span className="font-bold tracking-[-0.06em]">high-performance</span>, user-focused solutions.
           </p>
           <p>Let's <span className="font-bold tracking-[-0.06em]">connect and explore</span> how we can innovate together!</p>
         </div>

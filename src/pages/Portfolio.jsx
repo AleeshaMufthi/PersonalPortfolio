@@ -227,7 +227,7 @@ export default function Portfolio() {
         <h1 className="text-2xl mt-1">aleeshamufthi@gmail.com</h1>
 </div>
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <p className="text-gray-400">Built and Designed by Aleesha Mufthi</p>
+          <p className="text-gray-400 text-md">Built and Designed by Aleesha Mufthi</p>
         </div>
       </footer>
     </div>
