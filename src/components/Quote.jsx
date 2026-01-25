@@ -2,7 +2,7 @@ import React from 'react'
 
 const Quote = () => {
   return (
-    <section className="mt-16 mb-16 py-12 md:py-20 px-6 md:px-8 bg-gradient-to-r from-gray-700 to-black">
+    <section id='connect' className="mt-16 mb-16 py-12 md:py-20 px-6 md:px-8 bg-gradient-to-r from-gray-700 to-black">
       <div className="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-start md:items-center">
         <p className="text-white text-[28px] md:text-[40px] leading-[110%] md:leading-[79%] max-w-3xl mb-8 md:mb-0">
           As an <span className="font-['Be_Vietnam'] font-bold">enthusiastic developer</span>, I'm passionate about exploring <span className="font-['Be_Vietnam'] font-bold">new coding perspectives</span> and pushing innovation.

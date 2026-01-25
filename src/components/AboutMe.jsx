@@ -33,8 +33,8 @@ const AboutMe = () => {
             <div className="animate-fade-in-right">
             
             <a
-              href="/Aleesha_Mufthi_CV.pdf"
-              download="Aleesha_Mufthi_CV.pdf"
+              href="/AleeshaMufthiCV.pdf"
+              download="AleeshaMufthi_CV.pdf"
               className="font-['Be_Vietnam'] font-semibold text-[20px] md:text-[25px] leading-[100%] tracking-[-0.06em] px-8 md:px-12 py-3 md:py-4 mt-8 inline-flex items-center justify-center gap-2 bg-gray-900 text-white hover:bg-gray-800 transition-all duration-300 transform hover:scale-105"
             >
               <Download className="w-6 h-6" />

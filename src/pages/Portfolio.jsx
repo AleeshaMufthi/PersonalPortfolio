@@ -159,7 +159,7 @@ export default function Portfolio() {
           MY WORKS
           </button>
           <button
-            onClick={() => scrollToSection("about")}
+            onClick={() => scrollToSection("connect")}
             className="font-['Be_Vietnam'] font-semibold text-[20px] md:text-[25px] leading-[100%] tracking-[-0.06em] px-8 md:px-12 py-3 md:py-4 border-2 text-lg border-gray-900 text-gray-900 hover:bg-gray-900 hover:text-white transition-all duration-300 transform hover:scale-105"
           >
             GET IN TOUCH
